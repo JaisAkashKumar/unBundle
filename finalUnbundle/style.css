@@ -895,7 +895,7 @@ header {
   align-items: center;
   justify-content: center;
 }
-.part4 .info-box.partond {
+.part4 .info-box.second {
   background: #e1f2ee;
 }
 
@@ -1768,13 +1768,13 @@ header {
   margin: 0 auto;
 }
 
-.part10 .parttion-header h1 {
+.part10 .section-header h1 {
   font-size: 48px;
   color: #333;
   margin-bottom: 10px;
 }
 
-.part10 .parttion-header p {
+.part10 .section-header p {
   font-size: 30px;
   color: #666;
   margin-bottom: 40px;
